@@ -1,8 +1,8 @@
 ## Recipe
 
-6 roma tomatoes
-4 cloves garlic
-4 eggs
+3 roma tomatoes
+2 cloves garlic
+2 eggs
 salt
 black pepper
 paprika
