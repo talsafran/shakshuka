@@ -1,0 +1,17 @@
+body {
+  font-family: "Comic Sans MS";
+  font-size: 20px;
+  width: 600px;
+  margin: 40px auto;
+}
+
+table {
+  border: solid 2px black;
+  font-size: 20px;
+  width: 100%;
+}
+
+select, option {
+  font-family: "Comic Sans MS";
+  font-size: 20px;
+}

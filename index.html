@@ -3,26 +3,22 @@
 <head>
   <title>Cookies!</title>
 
-  <style>
-    body {
-      font-family: "Comic Sans MS";
-      font-size: 20px;
-      width: 600px;
-      margin: 40px auto;
-    }
-
-    table {
-      border: solid 2px black;
-      width: 100%;
-    }
-  </style>
+  <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
   <h1>Shakshuka!</h1>
 
   <p>
-    Serves 2
+    Serves
+    <select id="quantity-selector">
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+    </select>
   </p>
 
   <table>
@@ -48,7 +44,7 @@
 
     <tr>
       <td></td>
-      <td>pepper</td>
+      <td>black pepper</td>
     </tr>
 
     <tr>
@@ -59,6 +55,11 @@
     <tr>
       <td></td>
       <td>cumin</td>
+    </tr>
+
+    <tr>
+      <td></td>
+      <td>olive oil</td>
     </tr>
   </table>
 </body>
