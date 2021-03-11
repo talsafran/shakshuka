@@ -4,6 +4,7 @@
 4 cloves garlic
 4 eggs
 salt
-pepper
+black pepper
 paprika
 cumin
+olive oil
