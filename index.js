@@ -2,7 +2,6 @@ window.addEventListener('load', () => {
   const quantitySelector = document.getElementById('quantity-selector')
 
   quantitySelector.addEventListener('change', (event) => {
-    console.log('you selected', event.target.value, event)
     const numberOfServings = event.target.value
     const quantityElements = document.getElementsByClassName('quantity')
 
