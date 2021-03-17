@@ -14,7 +14,7 @@ All of these guides are on the fantastic [Mozilla Developer Network](https://dev
 - [CSS – Styling the web](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 - [JavaScript – Dynamic client-side scripting](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 
-I also learned a lot with this [HTML Dog](https://www.htmldog.com) website a million years ago. It's still online 🤗, though there are probsbly better things out there today.
+I also learned a lot with this [HTML Dog](https://www.htmldog.com) website a million years ago. It's still online 🤗, though there are probably better things out there today.
 
 ✨
 
