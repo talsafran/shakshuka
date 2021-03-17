@@ -1,0 +1,12 @@
+body {
+  font-family: "Comic Sans MS";
+  margin: auto;
+  width: 600px;
+}
+
+table {
+  border-color: black;
+  border-width: 2px;
+  border-style: solid;
+  width: 100%;
+}
